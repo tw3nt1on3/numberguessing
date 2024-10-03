@@ -1,0 +1,9 @@
+h1{
+    margin: auto;
+    font-family:'Times New Roman', Times, serif
+}
+button{
+    background-color: #ffa07a;
+    color: white;
+    font-size: 12px;
+}
